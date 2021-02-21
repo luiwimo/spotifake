@@ -1,0 +1,33 @@
+html, body {
+  
+  background-color: #445daf;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  display: none;
+}
+
+label {
+  font-style: italic;
+  display: inline-flex;
+  width: 100vw;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color:black;
+}
+
+#buttons {
+  text-align: center; 
+  margin-top: 100px;
+  width: 100vw;
+  
+}
+
+.button {
+  width: 50%;
+}
